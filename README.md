@@ -16,3 +16,14 @@
 2.turn background color of all the sibling container(s) of outerContainer in WHITE 
 
 (do the above with ~ and + CSS syntax) 
+
+## Third Task
+1.turn background color of siblingContainer into YELLOW when mouse over the div container
+
+2.add link in the innerContainer and siblingContainer both link to the siblingContainer2
+
+3.change color of link active clicking in innerContainer to WHITE
+
+4.change color of link active clicking in innerContainer to GREENYELLOW
+
+(do the above without change/add the class/id in the html)

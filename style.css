@@ -51,3 +51,15 @@ body {
 #outerContainer ~ div {
     background-color: white;
 }
+
+#siblingContainer:hover {
+    background-color: yellow;
+}
+
+#siblingContainer > a:active{
+    color: greenyellow;
+}
+
+#innerContainer > a:active{
+    color: white;
+}
