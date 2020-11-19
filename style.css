@@ -16,6 +16,7 @@ body {
   top: 40%;
   left: 50%;
   transform: translate(-50%, -50%); /* 7. Add this. */
+  background-color: white;
 }
 
 #siblingContainer {
@@ -68,4 +69,8 @@ body {
 #siblingContainer:hover {
     width: 300px;
     height: 300px;
+}
+
+div:not(#innerContainer):hover {
+    background-color: black;
 }
