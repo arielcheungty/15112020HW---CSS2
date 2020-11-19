@@ -32,4 +32,5 @@
 1.add a smooth transition transforming siblingContainer to 300px width height when mouse over the
 
 ## Extra Task
-1. add a smooth transition of background-color change to BLACK on all div except innerContainer
+1.add a smooth transition of background-color change to BLACK on all div except innerContainer
+(do it in your own way)
