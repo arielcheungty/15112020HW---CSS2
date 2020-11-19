@@ -43,3 +43,11 @@ body {
 #outerContainer p {
     font-style: italic;
 }
+
+#outerContainer + div {
+    margin-left: 50px;
+}
+
+#outerContainer ~ div {
+    background-color: white;
+}
