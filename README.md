@@ -27,3 +27,9 @@
 4.change color of link active clicking in innerContainer to GREENYELLOW
 
 (do the above without change/add the class/id in the html)
+
+## Fourth Task
+1.add a smooth transition transforming siblingContainer to 300px width height when mouse over the
+
+## Extra Task
+1. add a smooth transition of background-color change to BLACK on all div except innerContainer
