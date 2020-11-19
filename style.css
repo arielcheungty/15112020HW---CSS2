@@ -1,5 +1,5 @@
 body {
-    background-color: gray;
+  background-color: gray;
 }
 
 #outerContainer {
@@ -19,16 +19,15 @@ body {
 }
 
 #siblingContainer {
-    margin-top: 10px;
-    width: 400px;
-    height: 400px;
-    border: 1px solid #ccc;
-  }
+  margin-top: 10px;
+  width: 400px;
+  height: 400px;
+  border: 1px solid #ccc;
+}
 
-  
 #siblingContainer2 {
-    margin-top: 10px;
-    width: 400px;
-    height: 400px;
-    border: 1px solid #ccc;
-  }
+  margin-top: 10px;
+  width: 400px;
+  height: 400px;
+  border: 1px solid #ccc;
+}
