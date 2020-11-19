@@ -31,3 +31,15 @@ body {
   height: 400px;
   border: 1px solid #ccc;
 }
+
+#innerContainer p{
+    color: red;
+}
+
+#outerContainer > p {
+    color: blue;
+}
+
+#outerContainer p {
+    font-style: italic;
+}
